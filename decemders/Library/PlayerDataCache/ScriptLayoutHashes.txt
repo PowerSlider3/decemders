@@ -1,0 +1,8 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/nr3bb/Documents/GitHub/decemders/decemders/Temp/decemders dirtjump test/Windows/decemders dirtjump test.scenes
+SceneListBegin?
+Assets/decemders dirtjump test-fd.unity
+SceneListEnd?
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
